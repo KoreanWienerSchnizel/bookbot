@@ -1,2 +1,2 @@
 # bookbot
-python bookbot guided project from boot.dev course
+BookBot is my first project!
